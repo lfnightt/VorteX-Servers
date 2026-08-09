@@ -1,0 +1,12 @@
+{
+  "name": "VorteX Server List",
+  "version": 1,
+  "servers": [
+    { "id": "germany", "name": "Germany", "flag": "de", "latency": 23 },
+    { "id": "netherlands", "name": "Netherlands", "flag": "nl", "latency": 31 },
+    { "id": "usa", "name": "USA", "flag": "us", "latency": 142 },
+    { "id": "finland", "name": "Finland", "flag": "fi", "latency": 29 },
+    { "id": "turkey", "name": "Turkey", "flag": "tr", "latency": 18 },
+    { "id": "uae", "name": "UAE", "flag": "ae", "latency": 87 }
+  ]
+}
