@@ -9,46 +9,6 @@
       "latency": 24,
       "protocol": "vless",
       "uri": "vless://1d5bf7c2-8a35-4f17-8d0a-84d1cdbe2f6f@m99kmHvaLeZPsl.lynch.ir:2052?encryption=none&security=none&type=httpupgrade&headerType=none&path=%2F&host=hjjtgpEFK96d.linux-panel.com#%F0%9F%87%A9%F0%9F%87%AA%20%F0%9D%97%95%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%BB"
-    },
-    {
-      "id": "netherlands",
-      "name": "Netherlands",
-      "flag": "nl",
-      "latency": 31,
-      "protocol": "vmess",
-      "uri": "vmess://eyJ2IjoiMiIsInBzIjoiTmV0aGVybGFuZHMiLCJhZGQiOiJ2cG4tbmV0aGVybGFuZHMuZXhhbXBsZS5jb20iLCJwb3J0IjoiNDQzIiwiaWQiOiIwMDAwMDAwMC0wMDAwLTAwMDAtMDAwMC0wMDAwMDAwMDAwMDEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoidnBuLW5ldGhlcmxhbmRzLmV4YW1wbGUuY29tIiwicGF0aCI6Ii92bWVzcyIsInRscyI6InRscyIsInNuaSI6InZwbi1uZXRoZXJsYW5kcy5leGFtcGxlLmNvbSJ9#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands"
-    },
-    {
-      "id": "usa",
-      "name": "USA",
-      "flag": "us",
-      "latency": 142,
-      "protocol": "trojan",
-      "uri": "trojan://replace-with-trojan-password@vpn-usa.example.com:443?security=tls&sni=vpn-usa.example.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20USA"
-    },
-    {
-      "id": "finland",
-      "name": "Finland",
-      "flag": "fi",
-      "latency": 29,
-      "protocol": "wireguard",
-      "uri": "wireguard://AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA%3D@vpn-finland.example.com:51820?peer_public_key=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA%3D&local_address=10.0.0.2%2F32#%F0%9F%87%AB%F0%9F%87%AE%20Finland"
-    },
-    {
-      "id": "turkey",
-      "name": "Turkey",
-      "flag": "tr",
-      "latency": 18,
-      "protocol": "shadowsocks",
-      "uri": "ss://YWVzLTEyOC1nY206cmVwbGFjZS13aXRoLXNzLXBhc3N3b3Jk@vpn-turkey.example.com:8388#%F0%9F%87%B9%F0%9F%87%B7%20Turkey"
-    },
-    {
-      "id": "uae",
-      "name": "UAE",
-      "flag": "ae",
-      "latency": 87,
-      "protocol": "reality",
-      "uri": "vless://00000000-0000-0000-0000-000000000002@vpn-uae.example.com:443?encryption=none&security=reality&sni=www.microsoft.com&fp=chrome&pbk=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&sid=0123456789abcdef&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%A6%F0%9F%87%AA%20UAE"
     }
   ]
 }
